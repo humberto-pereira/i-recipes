@@ -64,16 +64,16 @@ i-Recipes is more than just a recipe-sharing platform; it's a place where culina
 ## Wire Frames
 
 ### Sign-In/SignUp
-- <img src="readme-images/sign-in-sign-up.png" alt='Sign-In/Sign-Up' width='400' height='650'>
+- <img src="readme-images/sign-in-sign-up.png" alt='Sign-In/Sign-Up' width='600' height='850'>
 ### Home
-- <img src="readme-images/home.png" alt='Home Page' width='400' height='650'>
+- <img src="readme-images/home.png" alt='Home Page' width='600' height='850'>
 ### Recipe Page
-- <img src="readme-images/recipe.png" alt='Recipe Page' width='400' height='650'>
+- <img src="readme-images/recipe.png" alt='Recipe Page' width='600' height='850'>
 ### Profile page 
-- <img src="readme-images/profile-page.png" alt='Profile Page' width='400' height='650'>
+- <img src="readme-images/profile-page.png" alt='Profile Page' width='600' height='850'>
 ### Edit Profile Page
-- <img src="readme-images/edit-profile.png" alt='Edit Profile page' width='400' height='650'>
+- <img src="readme-images/edit-profile.png" alt='Edit Profile page' width='600' height='850'>
 ### Add a Post
-- <img src="readme-images/add-a-post.png" alt='Add a Post' width='400' height='650'>
+- <img src="readme-images/add-a-post.png" alt='Add a Post' width='600' height='850'>
 ### Mobile Home
-- <img src="readme-images/mobile-home.png" alt='Mobile Home' width='400' height='650'>
+- <img src="readme-images/mobile-home.png" alt='Mobile Home' width='600' height='850'>
